@@ -1,0 +1,14 @@
+/home/conor/Documents/Coding/TimesTables/TimesTables/bin/Debug/net10.0/TimesTables
+/home/conor/Documents/Coding/TimesTables/TimesTables/bin/Debug/net10.0/TimesTables.deps.json
+/home/conor/Documents/Coding/TimesTables/TimesTables/bin/Debug/net10.0/TimesTables.runtimeconfig.json
+/home/conor/Documents/Coding/TimesTables/TimesTables/bin/Debug/net10.0/TimesTables.dll
+/home/conor/Documents/Coding/TimesTables/TimesTables/bin/Debug/net10.0/TimesTables.pdb
+/home/conor/Documents/Coding/TimesTables/TimesTables/obj/Debug/net10.0/TimesTables.GeneratedMSBuildEditorConfig.editorconfig
+/home/conor/Documents/Coding/TimesTables/TimesTables/obj/Debug/net10.0/TimesTables.AssemblyInfoInputs.cache
+/home/conor/Documents/Coding/TimesTables/TimesTables/obj/Debug/net10.0/TimesTables.AssemblyInfo.cs
+/home/conor/Documents/Coding/TimesTables/TimesTables/obj/Debug/net10.0/TimesTables.csproj.CoreCompileInputs.cache
+/home/conor/Documents/Coding/TimesTables/TimesTables/obj/Debug/net10.0/TimesTables.dll
+/home/conor/Documents/Coding/TimesTables/TimesTables/obj/Debug/net10.0/refint/TimesTables.dll
+/home/conor/Documents/Coding/TimesTables/TimesTables/obj/Debug/net10.0/TimesTables.pdb
+/home/conor/Documents/Coding/TimesTables/TimesTables/obj/Debug/net10.0/TimesTables.genruntimeconfig.cache
+/home/conor/Documents/Coding/TimesTables/TimesTables/obj/Debug/net10.0/ref/TimesTables.dll
